@@ -1,3 +1,6 @@
+
+/* FIle for testing componets in Storybook, lets us see what they will look like */
+
 import React from "react";
 
 import { storiesOf } from "@storybook/react";
